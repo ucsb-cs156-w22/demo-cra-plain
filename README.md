@@ -1,3 +1,17 @@
+Apart from the contents of this README.md file above the line below, everything in this repo is the unmodified result of running this sequence of commands:
+
+```
+npx create-react-app demo-cra-plain
+cd demo-cra-plain
+git remote add origin git@github.com:ucsb-cs156-w22/demo-cra-plain.git
+git checkout -b main
+git push origin main
+```
+
+This repo is here to serve as a reference point for what parts of other apps come from this [create-react-app](https://create-react-app.dev/) base, and what parts are modifications of the staff and students of [CMPSC 156 at UCSB](https://ucsb-cs156.github.io).
+
+<hr />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
